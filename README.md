@@ -98,6 +98,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 
-Richika Verma - richikaverma19@example.com)
+Richika Verma - (richikaverma19@example.com)
 
-Project Link: (https://github.com/richikaverma19/Ecommerce-website)
+Project Link: (https://github.com/richikaverma19/To-Do-List-Project)
